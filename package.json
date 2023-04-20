@@ -10,5 +10,9 @@
   "license": "ISC",
   "publishConfig": {
     "@M-Yamashita01:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:M-Yamashita01/npm-sample.git"
   }
 }
